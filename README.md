@@ -1,3 +1,4 @@
+*Nota: El main se encuentra en la carpeta src/main/java/Backend*
 # Sistema de Préstamo de Libros en Java
 
 Este proyecto es una aplicación Java que simula un sistema de préstamo de libros con distintos tipos de usuarios (normal, premium, administrador). La interfaz está desarrollada en Swing y cuenta con manejo de persistencia mediante objetos serializables.
